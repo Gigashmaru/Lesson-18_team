@@ -189,8 +189,11 @@ footer {
   #hamburger {
     display: flex;
   }
-  .active {
+  .nav-menu {
     display: none;
+  }
+  .active {
+    display: flex;
   }
 }
 
